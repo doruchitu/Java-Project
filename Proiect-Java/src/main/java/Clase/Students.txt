@@ -1,0 +1,16 @@
+Nume,Prenume,Grupa
+Ilie,Marcel,3
+Sava,Danut,2
+Popescu,Ion,4
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1
+Ionel,Marcel,1

@@ -1,0 +1,46 @@
+Nume curs: Rezistenta Materialelor
+Descriere: calculul reacţiunilor,diagramele de eforturi, calculul caracteristicilor geometrice, etc..
+Profesor{id='0', prenume='Panaitescu', nume='Anton'}
+Studenti si note:
+ - Ionescu Georgel - Nota: 8
+ - Ion Mateescu - Nota: 7
+---------------------------
+Nume curs: Analiza Matematica
+Descriere: Serii de numere reale,Limite,etc...
+Profesor{id='1', prenume='Marcel', nume='Pavel'}
+Studenti si note:
+ - Andrei Negoita - Nota: 9
+ - Ionescu Georgel - Nota: 6
+ - Ion Mateescu - Nota: 5
+---------------------------
+Nume curs: Programare JAVA
+Descriere: Clase, Mostenire,Exceptii si generice, Fire de executie, etc...
+Profesor{id='2', prenume='Georgel', nume='Ionel'}
+Studenti si note:
+ - Andrei Negoita - Nota: 8
+ - Ionescu Georgel - Nota: 7
+ - Ion Mateescu - Nota: 5
+---------------------------
+Nume curs: Rezistenta Materialelor
+Descriere: calculul reacţiunilor,diagramele de eforturi, calculul caracteristicilor geometrice, etc..
+Profesor{id='0', prenume='Panaitescu', nume='Anton'}
+Studenti si note:
+ - Ionescu Georgel - Nota: 8
+ - Ion Mateescu - Nota: 7
+---------------------------
+Nume curs: Analiza Matematica
+Descriere: Serii de numere reale,Limite,etc...
+Profesor{id='1', prenume='Marcel', nume='Pavel'}
+Studenti si note:
+ - Andrei Negoita - Nota: 9
+ - Ionescu Georgel - Nota: 6
+ - Ion Mateescu - Nota: 5
+---------------------------
+Nume curs: Programare JAVA
+Descriere: Clase, Mostenire,Exceptii si generice, Fire de executie, etc...
+Profesor{id='2', prenume='Georgel', nume='Ionel'}
+Studenti si note:
+ - Andrei Negoita - Nota: 8
+ - Ionescu Georgel - Nota: 7
+ - Ion Mateescu - Nota: 5
+---------------------------
